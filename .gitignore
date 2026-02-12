@@ -14,3 +14,5 @@ mods/file_list.json
 # Ignore any JSON except the one you want
 *.json
 !file_list.json
+
+.index/
